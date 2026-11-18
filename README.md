@@ -3,6 +3,7 @@
 - **Name**: Samuel Hideaki Tangke Arung
 - **NRP**: 5024241062
 - **Start Offset (`Y0`)**: `0.10 * (5024241062 % 5) - 0.20 = 0.00`
+- **Video Demo**: https://drive.google.com/drive/folders/1bUrwAUKVx16VQWznZmLRoMxFd3bCz-1Z?usp=sharing
 
 ## Constants Used Across the Five Runs
 
